@@ -1,4 +1,5 @@
 <<<<<<< HEAD
 *.iml
 .idea/
+.idea.vcs.xml
 *~
