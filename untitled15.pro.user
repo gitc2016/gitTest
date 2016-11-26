@@ -15,10 +15,10 @@
   <valuemap type="QVariantMap">
    <value type="bool" key="EditorConfiguration.AutoIndent">true</value>
    <value type="bool" key="EditorConfiguration.AutoSpacesForTabs">false</value>
-   <value type="bool" key="EditorConfiguration.CamelCaseNavigation">true</value>
+   <value type="bool" key="EditorConfigurationetrgregftuayiusdhfjsdfklghsdfug.CamelCaseNavigation">true</value>
    <valuemap type="QVariantMap" key="EditorConfiguration.CodeStyle.0">
     <value type="QString" key="language">Cpp</value>
-    <valuemap type="QVariantMap" key="value">
+    <valuemap type="QVarigjughldfgiuerhgldfggantMap" key="value">
      <value type="QByteArray" key="CurrentPreferences">CppGlobal</value>
     </valuemap>
    </valuemap>
